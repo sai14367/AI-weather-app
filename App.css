@@ -1,0 +1,33 @@
+.app {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  min-height: 100vh;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  width: 250px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.info-card {
+  background: white;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
